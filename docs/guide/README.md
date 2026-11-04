@@ -8,6 +8,7 @@ TikTok, YouTube Shorts and X. It all runs on your own Windows PC.
 | 1 | [Install and set up everything](01-install-and-setup.md) | Part 1 on YouTube |
 | 2 | [How to use Auraclip: from video to posted clip](02-using-auraclip.md) | Part 2 on YouTube |
 | 3 | [Local AI and AI agents: LM Studio, Hermes, OpenClaw, Claude Code, Codex](03-local-ai-and-agents.md) | Part 3 on YouTube |
+| 4 | [Creative: long YouTube videos from your screenshots and clips](04-creative.md) | |
 | ? | [Troubleshooting](troubleshooting.md) | |
 
 **Already run a coding agent?** Paste this into it:

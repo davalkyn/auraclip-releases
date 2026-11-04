@@ -212,4 +212,4 @@ header `Authorization: Bearer pick-a-long-secret`:
 - Codex: set `bearer_token_env_var`.
 - Hermes: `install.ps1 -McpToken …`.
 
-Next: [Troubleshooting](troubleshooting.md)
+Next: [Creative: long YouTube videos](04-creative.md)

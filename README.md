@@ -14,6 +14,7 @@ YouTube Shorts and X. It all runs on your own Windows PC.
 | 1 | [Install and set up everything](docs/guide/01-install-and-setup.md) |
 | 2 | [How to use Auraclip: from video to posted clip](docs/guide/02-using-auraclip.md) |
 | 3 | [Local AI and AI agents: LM Studio, Hermes, OpenClaw, Claude Code, Codex](docs/guide/03-local-ai-and-agents.md) |
+| 4 | [Creative: long YouTube videos from your screenshots and clips](docs/guide/04-creative.md) |
 | ? | [Troubleshooting](docs/guide/troubleshooting.md) |
 
 **Already run a coding agent?** Paste this into it:
